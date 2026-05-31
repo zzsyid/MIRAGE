@@ -4,14 +4,7 @@ Official code release for **MIRAGE**, a multi-evidence audio-visual forgery dete
 This repository contains the **final training and evaluation pipeline** used for the released MIRAGE model, together with the cleaned protocol construction utilities and the final checkpoint.
 
 ## Highlights
-- Multi-evidence AV forgery detection with three evidence sources:
-  - **Artifact evidence** for local visual forgery traces
-  - **Inconsistency evidence** for cross-modal mismatch detection
-  - **Identity evidence** for global face-voice consistency
-- Fine-grained phoneme-level inconsistency modeling with scale-adaptive routing
-- Training protocol code for the final pseudo-audio-swap intervention setting
-- Released final checkpoint:
-  - `checkpoints/mirage_best.pt`
+
 
 ## Repository Layout
 - `scripts/`: training, evaluation, and protocol preparation entry points
