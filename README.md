@@ -1,4 +1,5 @@
 The train code will upload after acceptance
+https://drive.google.com/drive/folders/12JpQ_Md8AiZpktaU5JyRKjNmpVJtWoFB?usp=drive_link checkpoint
 # MIRAGE Eval-Only Release
 
 This directory is a clean **evaluation-only** repository scaffold for the MIRAGE/Synchformer-style dual-evidence detector.
